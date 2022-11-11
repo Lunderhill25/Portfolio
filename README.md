@@ -17,3 +17,9 @@ The larger part of the coursework for my Comp2002 module. The task was about opt
   
 The link to the google colab used is below:
 https://colab.research.google.com/drive/1GhwDdXzwNCqw2aVGapVZQIT70GkW-szp?usp=sharing 
+
+## Non-Disclosable Team Project (2021-2022) 
+
+## Procedural Generating (2022-present)
+
+## Multi-Site Manga Reader (2022-present)
